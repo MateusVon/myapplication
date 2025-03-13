@@ -72,7 +72,7 @@ export default function Home() {
         showsVerticalScrollIndicator={false}
         ListEmptyComponent={() => (
           <Text style={styles.emptyListText}>
-            Nenhum participante cadastrado.
+            Ninguém chegou no evento ainda?                                           Adicione participantes a sua lista de presença
           </Text>
         )}
       />
